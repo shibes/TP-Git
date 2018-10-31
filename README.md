@@ -1,8 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-        git clone https://github.com/votrecompte/TP-Git.git
-
 * Indiquez le dépôt officiel :
 
         cd TP-Git
