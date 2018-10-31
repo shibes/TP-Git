@@ -1,14 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-* Mettez vous en binôme.
-* Créez vous chacun un compte sur GitHub.
-* Dupliquez (*fork*) le projet TP-Git dans votre espace public.
-* Récupérez sur votre disque dur les sources du projet.
-
-        git clone https://github.com/votrecompte/TP-Git.git
-
-* Indiquez le dépôt officiel :
 
         cd TP-Git
         git remote add official https://github.com/benel/TP-Git.git
