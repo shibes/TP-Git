@@ -1,7 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-* Récupérez sur votre disque dur les sources du projet.
 
         git clone https://github.com/votrecompte/TP-Git.git
 
