@@ -1,7 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-* Créez vous chacun un compte sur GitHub.
 * Dupliquez (*fork*) le projet TP-Git dans votre espace public.
 * Récupérez sur votre disque dur les sources du projet.
 
