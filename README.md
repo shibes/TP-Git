@@ -1,7 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-* Dupliquez (*fork*) le projet TP-Git dans votre espace public.
 * Récupérez sur votre disque dur les sources du projet.
 
         git clone https://github.com/votrecompte/TP-Git.git
