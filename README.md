@@ -1,7 +1,6 @@
 ﻿Git par la pratique
 ===================
 
-* Indiquez le dépôt officiel :
 
         cd TP-Git
         git remote add official https://github.com/benel/TP-Git.git
